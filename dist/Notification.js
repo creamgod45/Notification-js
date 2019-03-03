@@ -14,7 +14,6 @@
      * @param string $_title Title
      * @param string $_body  Body
      * @param string $_icon  Icon
-     * @param string $_badge Badge
      * @param string $_image Image
      * 
      * @return bool 
